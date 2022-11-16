@@ -1,0 +1,30 @@
+button{
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    padding: 10px, 20px;
+    cursor: pointer;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body {
+    background-color: white;
+}
+span{
+    font-size: 20px;
+}
+.titu{
+    font-size: 1em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    font-family: monospace;
+}
+.contenedor{
+    font-size: 1em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
